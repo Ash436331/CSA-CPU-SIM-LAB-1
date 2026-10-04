@@ -15,7 +15,7 @@ Each practical has its own folder containing the program (where applicable) and 
 
 | No. | Practical | Folder |
 |---|---|---|
-| 1 | Create a machine based on the Basic Computer architecture | [Practical_01_Create_Machine](CSA-CPU-Sim-Lab1/Practical_01_Create_Machine) |
+| 1 | Create a machine based on the Basic Computer architecture | [Practical_01_Create_Machine](CSA-CPU-Sim-Lab-1/Practical_01_Create_Machine) |
 | 2 | Create the Fetch routine of the instruction cycle | [Practical_02_Fetch_Routine](CSA-CPU-Sim-Lab-1/Practical_02_Fetch_Routine) |
 | 3 | ADD operation on two user-entered numbers | [Practical_03_ADD](CSA-CPU-Sim-Lab-1/Practical_03_ADD) |
 | 4 | SUBTRACT operation on two user-entered numbers | [Practical_04_SUBTRACT](CSA-CPU-Sim-Lab-1/Practical_04_SUBTRACT) |
